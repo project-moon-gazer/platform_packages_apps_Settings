@@ -259,6 +259,11 @@
             android:title="@string/disable_game_default_frame_rate_title"
             android:summary="@string/disable_game_default_frame_rate_summary"/>
 
+    <SwitchPreference
+        android:key="angle_allowlist"
+        android:title="@string/angle_allowlist_title"
+        android:summary="@string/angle_allowlist_summary" />
+
         <Preference
             android:key="graphics_driver_dashboard"
             android:title="@string/graphics_driver_dashboard_title"

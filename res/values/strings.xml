@@ -15590,4 +15590,6 @@
     <!-- Search keywords for Human interface device access setting -->
     <string name="keywords_access_hid">hid, human, access, device</string>
     <!-- Access HID end -->
+    <string name="angle_allowlist_title">Use ANGLE for listed apps</string>
+    <string name="angle_allowlist_summary">Turn off to use the native GPU driver. Restart the app to apply.</string>
 </resources>
